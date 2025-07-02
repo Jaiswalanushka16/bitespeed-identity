@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "bitespeed-identity",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
